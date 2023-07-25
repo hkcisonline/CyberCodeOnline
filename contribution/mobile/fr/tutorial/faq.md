@@ -7,7 +7,7 @@ En résumé, vous vous aventurez essentiellement dans les **Stations** tout en b
 
 Des explications plus détaillées peuvent être trouvées dans la section dédiée du Didacticiel.
 
-### Qu'est-ce que j'obtiens en rejoignant/terminant un combat ?
+### Qu'est-ce que j'obtiens en engageant un combat ?
 
 Vous recevrez une monnaie de jeu appelée **BTC** et de l'expérience appelée **EXP** dans les comabt. Vous recevrez des objets aléatoirement, de l'équipement ou des plans après avoir vaincu des ennemis.
 
@@ -53,6 +53,10 @@ Non. Le niveau du personnage est le maximum / la limite du niveau des compétenc
 
 ### Puis-je utiliser un équipement supérieur à mon niveau de personnage ?
 Non. Le joueur ne peut pas utiliser d'équipement supérieur au niveau actuel de son personnage.
+
+### Pourquoi ma compétence XXX est-elle bloquée à 99% ?
+C'est principalement parce que les compétences secondaires ne peuvent pas être supérieures au niveau d'EXP de votre personnage,
+augmenter le niveau de votre personnage permet ensuite à la compétence XXX de progresser.
 
 ### Que se passera-t-il si je meurs ?
 Vous perdrez 10 % de vos BTC et EXP non mis en banque ; cependant votre inventaire sera en sécurité. Il est conseillé de conserver vos BTC dans la **Banque d'Arasaka** afin d'éviter des pertes importantes.
